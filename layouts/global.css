@@ -1,0 +1,51 @@
+.primary-bg {
+  background-color: #27AE60;
+}
+
+.primary-btn {
+  @apply primary-bg text-2xl text-white px-6 py-2 rounded-2xl;
+}
+
+.menu-item {
+  @apply py-10 px-5 inline-block
+}
+
+.footer-menu-item {
+  @apply text-white block pb-4
+}
+
+.hero-heading {font-size: 144px;}
+
+.small-container {max-width: 1000px}
+.tika-text-pink {color: #FF3C8E}
+.tika-text-primary, .nuxt-link-exact-active.menu-item {color: #27AE60}
+.tika-text-orange {color: #F2994A}
+.tika-text-blue {color: #3300FF}
+
+.tika-step:before,
+.tika-step:after {
+
+  top: 50%;
+  height: 2px;
+  width: 163px;
+  content: "";
+  background-color: #D6D6D6;
+  position: absolute;
+  margin-top: -1px;
+}
+
+.tika-step:before {right: 20px;}
+.tika-step:after {left: 20px;}
+
+.flex-1:first-child .tika-step:before, .flex-1:last-child .tika-step:after {
+  display: none;
+}
+
+.dots-1 {width: 130px; height: 108px;background-image: url(static/img/dots-1.svg)}
+
+.tika-label {
+  @apply text-lg font-semibold text-black block mb-3 cursor-pointer
+}
+.tika-input {
+  @apply block border bg-gray-100 border-gray-200 p-4 w-full rounded-3xl focus:outline-none focus:border-gray-400
+}

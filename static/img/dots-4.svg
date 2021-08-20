@@ -1,0 +1,19 @@
+<svg width="192" height="208" viewBox="0 0 192 208" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="22" height="22" transform="matrix(1 0 0 -1 102 72)" fill="#E5F1FF" fill-opacity="0.45"/>
+<rect width="22" height="22" transform="matrix(1 0 0 -1 102 22)" fill="#E5F1FF" fill-opacity="0.45"/>
+<rect width="22" height="22" transform="matrix(1 0 0 -1 152 72)" fill="#E5F1FF" fill-opacity="0.45"/>
+<rect width="22" height="22" transform="matrix(1 0 0 -1 152 22)" fill="#E5F1FF" fill-opacity="0.45"/>
+<rect width="22" height="22" transform="matrix(1 0 0 -1 102 122)" fill="#E5F1FF" fill-opacity="0.45"/>
+<rect width="22" height="22" transform="matrix(1 0 0 -1 54 122)" fill="#E5F1FF" fill-opacity="0.45"/>
+<rect width="22" height="22" transform="matrix(1 0 0 -1 152 122)" fill="#E5F1FF" fill-opacity="0.45"/>
+<rect width="22" height="22" transform="matrix(1 0 0 -1 54 72)" fill="#E5F1FF" fill-opacity="0.45"/>
+<rect width="22" height="22" transform="matrix(1 0 0 -1 54 22)" fill="#E5F1FF" fill-opacity="0.45"/>
+<circle cx="118" cy="112" r="12" fill="#FF3C8E" fill-opacity="0.15"/>
+<circle cx="65" cy="112" r="12" fill="#FF3C8E" fill-opacity="0.15"/>
+<circle cx="12" cy="154" r="12" fill="#FF3C8E" fill-opacity="0.15"/>
+<circle cx="118" cy="154" r="12" fill="#FF3C8E" fill-opacity="0.15"/>
+<circle cx="65" cy="154" r="12" fill="#FF3C8E" fill-opacity="0.15"/>
+<circle cx="12" cy="112" r="12" fill="#FF3C8E" fill-opacity="0.15"/>
+<circle cx="65" cy="196" r="12" fill="#FF3C8E" fill-opacity="0.15"/>
+<circle cx="12" cy="196" r="12" fill="#FF3C8E" fill-opacity="0.15"/>
+</svg>
